@@ -4,4 +4,4 @@
 stack : Spring Boot, JPA, Gradle, Bootstrap, Thymeleaf, Lombok, H2, Junit(test)
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/69129562/173610326-c23ea8cd-7bdb-4b6a-9c6b-80bdbc4f39ab.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/69129562/176645914-c93b3c80-671a-4442-ab80-bd22c3331562.gif)
